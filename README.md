@@ -1,1 +1,1 @@
-# -goitneo-python-hw-2-05
+# goitneo-python-hw-2-05
